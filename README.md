@@ -8,7 +8,7 @@ Hi, I'm **MpratamaStore**, a dedicated e-commerce platform and tech enthusiast b
 - 📍 **Location**: Jakarta, Indonesia
 - 💼 **Focus**: E-commerce Development, Web Applications, and Digital Retail Solutions
 - 🚀 **Currently Working On**: Scaling MpratamaStore’s platform with advanced features like AI-driven product recommendations and secure payment integrations
-- 📧 **Contact**: [support@mpratamastore.com](mailto:support@mpratamastore.com) | [LinkedIn](https://linkedin.com/company/mpratamastore)
+- 📧 **Contact**: [support@mpratamastore.com](mailto:mpratamastore@gmail.com) | [LinkedIn](https://linkedin.com/company/mpratamastore)
 - ⚡ **Fun Fact**: Started as a small online store in 2020 and now serving thousands of customers across Indonesia!
 
 ---
@@ -32,7 +32,7 @@ Here’s what powers MpratamaStore’s projects:
 - **Description**: A full-fledged e-commerce platform with features like product catalog management, secure checkout, and real-time order tracking.
 - **Tech Stack**: React, Node.js, PostgreSQL, AWS
 - **Impact**: Powers over 10,000 monthly transactions with a 99.9% uptime.
-- **Link**: [Live Site](https://mpratamastore.com) | [Repository](https://github.com/mpratamastore/ecommerce-platform)
+- **Link**: [Live Site](https://mpratamastore.web.app) | [Repository](https://github.com/mpratamastore/ecommerce-platform)
 
 ### 🤖 AI Product Recommender
 ![GitHub stars](https://img.shields.io/github/stars/mpratamastore/ai-recommender?style=social)
