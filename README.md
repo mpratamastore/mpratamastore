@@ -67,8 +67,8 @@ Here’s what powers MpratamaStore’s projects:
 ## 🤝 Let’s Collaborate!
 I’m passionate about open-source contributions and partnerships in the e-commerce space. Whether it’s building new features, optimizing performance, or exploring AI innovations, I’d love to connect!
 
-- 📧 Email: [support@mpratamastore.com](mailto:support@mpratamastore.com)
-- 🌐 Website: [mpratamastore.com](https://mpratamastore.com)
+- 📧 Email: [mpratamastore@gmail.com](mailto:mpratamastore@gmail.com)
+- 🌐 Website: [mpratamastore.web.app](https://mpratamastore.web.app)
 - 💬 Connect on: [LinkedIn](https://linkedin.com/company/mpratamastore) | [Twitter](https://twitter.com/mpratamastore)
 
 Thank you for visiting! Let’s revolutionize online shopping together. 🚀
