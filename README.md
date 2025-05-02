@@ -8,7 +8,7 @@ Hi, I'm **MpratamaStore**, a dedicated e-commerce platform and tech enthusiast b
 - 📍 **Location**: Jakarta, Indonesia
 - 💼 **Focus**: E-commerce Development, Web Applications, and Digital Retail Solutions
 - 🚀 **Currently Working On**: Scaling MpratamaStore’s platform with advanced features like AI-driven product recommendations and secure payment integrations
-- 📧 **Contact**: [support@mpratamastore.com](mailto:mpratamastore@gmail.com) | [LinkedIn](https://linkedin.com/in/mpratama-store)
+- 📧 **Contact**: [mpratamastore@gmail.com](mailto:mpratamastore@gmail.com) | [LinkedIn](https://linkedin.com/in/mpratama-store)
 - ⚡ **Fun Fact**: Started as a small online store in 2020 and now serving thousands of customers across Indonesia!
 
 ---
